@@ -1,6 +1,8 @@
 import React from 'react';
 
-const JsxComp = () => <div>JsxComp</div>;
+const JsxComp = () => (<div>
+    hello JSX
+</div>);
 
 export {
     JsxComp,
